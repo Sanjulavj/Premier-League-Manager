@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mE:\OOP\CW play2\oopbackend\app\controllers\ConsoleApplication.java:7:1:  error: cannot access LeagueManager[0m
+[0m[[0m[31merror[0m] [0m[0mimport services.LeagueManager;[0m
+[0m[[0m[31merror[0m] [0m[0m               ^  bad class file: E:\OOP\CW play2\oopbackend\target\scala-2.13\classes\services\LeagueManager.class[0m
+[0m[[0m[31merror[0m] [0m[0m    class file has wrong version 57.0, should be 51.0[0m
+[0m[[0m[31merror[0m] [0m[0m    Please remove or make sure it appears in the correct subdirectory of the classpath.[0m
