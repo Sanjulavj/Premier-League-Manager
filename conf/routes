@@ -1,0 +1,20 @@
+# Routes
+
+
+
+
+
+#GET     /                           controllers.FrontendController.index()
+
+
+
+
+GET     /api/clubs                  controllers.PremierLeagueController.listClubs
+
+GET     /api/matches                  controllers.PremierLeagueController.listMatches
+
+GET     /api/randomMatch               controllers.PremierLeagueController.randomMatch
+
+#GET     /*file                      controllers.FrontendController.assetOrDefault(file)
+
+
