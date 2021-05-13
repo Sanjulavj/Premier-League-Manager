@@ -1,0 +1,70 @@
+
+
+table{
+  width: 100%;
+}
+
+table {
+  background-color:#ffffb3;
+  margin-top: 20px;
+
+}
+tr.mat-row:hover:not(.active) {
+  background-color: #e90052;
+
+}
+
+tr.mat-header-row {
+  background-color: #38003c;
+  font-family: Arial;
+}
+
+th.mat-header-cell {
+  color: white;
+  font-size: 14px;
+  font-family: Arial;
+  background-color: #38003c;
+}
+
+
+
+#firstRow{
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+
+}
+
+#firstRowRight{
+  margin-left: 300px;
+
+}
+.btn-primary{
+  margin-left: 10px;
+  background-color: #38003c;
+  border-color: #38003c;
+}
+
+
+
+.btn-primary:hover:not(.active) {
+  background-color: #e90052;
+  color: white;
+  border-color:#e90052 ;
+
+}
+
+.btn-primary{
+  width: 80px;
+  height: 40px;
+  color: white;
+  border-radius: 10px;
+}
+
+#sortButton{
+  width: 100px;
+}
+
+#searchBar{
+  margin-left: 30px;
+}
