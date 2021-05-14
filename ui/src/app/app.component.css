@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+/* The side navigation menu */
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#38003c;
+}
+
+li {
+  float: left;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 40px;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+li a:hover:not(.active) {
+  color: 	#ffffb3;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+#nav{
+  padding-bottom: 20px;
+  margin: 0px;
+}
+
+#logo{
+  margin-top: 5px;
+  float: left;
+}
+
+#navButton{
+  margin-left: 40px;
+}
+
+
