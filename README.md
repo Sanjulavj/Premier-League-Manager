@@ -8,8 +8,20 @@ Object Oriented Programming Module - Coursework
 - JavaFX
 - AngularJS
 - Play-FrameWork
+- VS
 
 Developed a web-based application and a GUI to manage all the player details and the team details of the Premier League Football Tournament.
+
+**Main Features**
+
+- Object Oriented Programming design.
+- Options to add and delete clubs.
+- Option to add new matches.
+- Maintain all the club data.
+- Saving all data persistently.
+- Sorting option for data.
+- Search option for data.
+- Option to add random matches between clubs.
 
 **Aplication Screens**
 
